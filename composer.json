@@ -1,5 +1,5 @@
 {
-    "name": "luweiss/hjkuaidi",
+    "name": "simonxiaoma/hjkuaidi",
     "description": "A waybill tracking library for Yii2, supported almost every express in China.",
     "type": "library",
     "require": {
